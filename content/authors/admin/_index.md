@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carmela Moschella 
+title: Carmela Moschella
 
 # Name pronunciation (optional)
 name_pronunciation: ''
