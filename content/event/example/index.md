@@ -63,12 +63,12 @@ image:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-### Upcoming:
+### Upcoming
 - **Young Women in Mathematical Biology**  
   *Hausdorff School for Mathematics, Bonn (Germany) – April 2025*  
   *Poster presentation*
 
-### Past conferences:
+### Past conferences
 
 - **RSME’s 7th Congress of Young Researchers**  
   *Bilbao, Spain – January 2025*  
