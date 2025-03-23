@@ -161,6 +161,4 @@ awards:
 
 I am a PhD student in Mathematics under the supervision of Sara Merino-Aceituno, Christian Schmeiser, and
 Christa Buecker, as part of the multidisciplinary SMICH PhD program within the Vienna BioCenter Graduate
-School and the Medical University of Vienna. My research focuses on kinetic theory and its applications to
-emergent phenomena in biology using partial diﬀerential equations, numerical simulations, and modeling. I am
-familiar with Boltzmann-type equations, Fokker-Planck equations, and coagulation equations.
+School and the Medical University of Vienna. 
