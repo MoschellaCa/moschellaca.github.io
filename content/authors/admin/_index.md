@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Carmela Moschella 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Carmela   
+last_name: Moschella 
 
 # Status emoji
 status:
@@ -20,119 +20,102 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Vienna 
+    url: https://www.univie.ac.at/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:carmela.moschella@univie.ac.at'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/MoschellaCa
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/carmela-moschella
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematical biology
+  - Kinetic theory
+  - Modelling with Partial Differential Equations
+  - Large systems of interacting self-propelled particles
+  - Numerical simulations of particles systems and PDEs
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Mathematics
+    institution: University of Vienna 
+    date_start: 2021-09-22
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      #Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Applied Mathematics
+    institution: Università degli Studi di Roma "La Sapienza"
+    date_start: 2017-09-01
+    date_end: 2020-01-22
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis in Dynamical Systems, "Cucker-Smale model with repulsive forces". Supervised by [Prof Paolo Buttà](https://paolobutta.site.uniroma1.it/).
+  - area: BSc in Mathematics
+    institution: Università degli Studi di Salerno
+    date_start: 2014-09-01
+    date_end: 2017-09-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis in Numerical Analysis, "Long-term dynamics of multistep linear methods for conservative processes". Supervised by [Prof Raffaele D'Ambrosio](https://www.disim.univaq.it/RaffaeleDAmbrosio).
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Developer Engineer (System Architect) 
+    company_name: NTT Data Italia 
+    company_url: 'https://it.nttdata.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-02-01
+    date_end: 2021-08-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Back-end development: Designed and implemented business logic, REST APIs, and data processing workflows,ensuring system      scalability and maintainability.
+      - Front-end development: Developed and optimized UI components using Pega’s front-end framework to
+        enhance user experience and accessibility.
+      - End-to-end testing: Designed and executed automated and manual test cases to validate system functionality.
+      - Client engagement & requirements analysis: Acted as a bridge between business stakeholders and the
+        development team, gathering requirements, analyzing business processes, and translating them into technical
+        specifications.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Julia
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: ''
+      - name: Matlab
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: ''
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Volleyball
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Pilates
         description: ''
         percent: 100
         icon: cat
@@ -142,25 +125,18 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+  - name: French
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -183,4 +159,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Mathematics under the supervision of Sara Merino-Aceituno, Christian Schmeiser, and
+Christa Buecker, as part of the multidisciplinary SMICH PhD program within the Vienna BioCenter Graduate
+School and the Medical University of Vienna. My research focuses on kinetic theory and its applications to
+emergent phenomena in biology using partial diﬀerential equations, numerical simulations, and modeling. I am
+familiar with Boltzmann-type equations, Fokker-Planck equations, and coagulation equations.
