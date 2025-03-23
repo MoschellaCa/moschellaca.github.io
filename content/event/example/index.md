@@ -1,5 +1,5 @@
 ---
-title: Conference Talks and Poster Presentations
+title: Talks and Poster Presentations
 
 #event: Hugo Blox Builder Conference
 #event_url: https://jovenes2025.rsme.es/index_en.html
