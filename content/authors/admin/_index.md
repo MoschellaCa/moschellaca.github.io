@@ -104,7 +104,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 80
-        icon: ''
+        icon: 'devicon/matlab'
       
   - name: Hobbies
     color: '#eeac02'
