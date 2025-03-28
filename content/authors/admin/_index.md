@@ -100,7 +100,7 @@ skills:
       - name: Julia
         description: ''
         percent: 100
-        icon: ''
+        icon: 'devicon/julia'
       - name: Matlab
         description: ''
         percent: 80
